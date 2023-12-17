@@ -5,7 +5,7 @@ Hello my name is ALI SULTON S PALILATI, I am from Planet Earth, just contact me 
 I am here to survive in a world full of smog.
 As the Russian philosopher Ayn Rand once said "If smog becomes a risk to human safety then you must always remember, that life in nature without technology is certain death".
 
-<img src="(https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 
 - 🔭 I’m currently working with many [organizations](https://coconut.or.id/contact)
 - 🌱 I’m currently learning new things
